@@ -4,6 +4,10 @@ A collection of my solutions to LeetCode problems, organized by difficulty.
 
 Solutions may be implemented in different programming languages as I continue practicing and improving my problem-solving skills.
 
+## LeetCode Profile
+
+🔗 [View my LeetCode profile](https://leetcode.com/u/adithya_1908/)
+
 ## Structure
 
 - `easy/` — Easy problems
